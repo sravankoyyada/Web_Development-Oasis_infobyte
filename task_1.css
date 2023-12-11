@@ -1,0 +1,57 @@
+body{
+    font-family:'Artial',sans-serif;
+    margin:0;
+    padding:0;
+    background-color:#ffffff;
+    background-image:1694799779857.png;
+    background-size:cover;
+    background-attachment:fixed;
+
+}
+header{
+    background-image: url(1694799779857.png);
+   background-size:cover;
+    background-color:#1503b8;
+    color:#fff;
+    text-align:center;
+    padding:1em 0;
+
+}
+
+section{
+    max-width:800px;
+    margin:2em auto;
+    padding: 2em;
+    background-color:#fff;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+
+}
+
+footer{
+    background-color:#3f3e3e;
+    color:#fff;
+    text-align:center;
+    padding:1em 0;
+    
+}
+
+#con{
+
+    text-align: left;
+}
+#reg{
+    padding: left 100px;;
+}
+#one{
+    color:blanchedalmond;
+    margin-right: 800px;
+}
+#two{
+    color:blanchedalmond;
+    margin-right: 50px;
+}
+#three{
+    color:blanchedalmond;
+    margin-right: 200px;
+}
+
